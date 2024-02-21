@@ -25,5 +25,4 @@ while 0==0:
         print(alugar)
     if a == 0:
         print('finished program...')
-        print('me da um 10')
         exit()
